@@ -1,2 +1,2 @@
-# Image-Classification-using-inception architecture
+# MNIST-Classification-using-CNN-and-inception architecture
 This project focuses on the classification of the MNIST dataset using Convolutional Neural Network (CNN) and Inception architecture. The Inception architecture is a well-known deep learning architecture that has been proven to be effective in image classification tasks. The MNIST dataset, which is widely used for machine learning and computer vision, contains handwritten digits that will be classified into their respective categories.
